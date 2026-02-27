@@ -42,6 +42,8 @@
 dotnet run
 ```
 ---
+
+### Project Structure
 ```/ConsoleBlackjack
   ├─ .gitignore
   ├─ BlackJack.cs
