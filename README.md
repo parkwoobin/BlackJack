@@ -42,8 +42,7 @@
 dotnet run
 
 
-```
-/ConsoleBlackjack
+```/ConsoleBlackjack
   ├─ .gitignore
   ├─ BlackJack.cs
   ├─ BlackJack.csproj
