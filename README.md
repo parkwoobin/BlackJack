@@ -1,5 +1,5 @@
 # BlackJack
-
+---
 ## 미니 게임 과제: 블랙잭-1 (Blackjack)
 
 간단한 C# 콘솔 기반 블랙잭(Blackjack) 게임입니다.  
