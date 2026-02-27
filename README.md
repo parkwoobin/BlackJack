@@ -40,7 +40,7 @@
 ### Run
 ```bash
 dotnet run
-
+```
 ---
 ```/ConsoleBlackjack
   ├─ .gitignore
